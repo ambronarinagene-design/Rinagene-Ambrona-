@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 20px;
+  color:white;
   background-color: black;
   font-family: Arial, sans-serif;
 }
@@ -11,6 +12,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+  color: black;
   background-color: white;
 }
 
